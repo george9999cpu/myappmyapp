@@ -138,7 +138,7 @@ export default function App() {
           <IssueCard
             icon="⌂"
             title="Housing"
-            description="Affordability, construction and housing policy."
+            description="Affordability, renting and housing policy."
           />
         </View>
       </View>
